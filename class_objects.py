@@ -1,7 +1,9 @@
 # Class of a person
 class Person:
 
-    # Class variables
+    # Class variable
+    # It has "one" value that stays the same for all the objects. Since this value is associated
+    # with the class, and not with an object. It "belongs" to the class.
     amount = 0
 
     # Constructor
