@@ -27,10 +27,10 @@ You are welcomed to add in more topics that would be handy while developing Pyth
 
 If you want to cite this repository, you can use this:
 
-```bash
+```bibtex
 @misc{Intermediate_Python,
 title={Intermediate Python},
-author={Siddhesh Kulthe (@siddheshtv)},
+author={Siddhesh Kulthe (siddheshtv)},
 year={2024},
 howpublished={repository},
 publisher={Github},
